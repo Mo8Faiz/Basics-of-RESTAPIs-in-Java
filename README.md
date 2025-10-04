@@ -29,10 +29,11 @@ DELETE /api/movies/{id} → Remove a movie
 
 🏗️ Project Setup
 1. Clone the repository
+```bash
 git clone <your-repo-url>
-cd movie-api
+cd movie-api 
 
-2. Configure MySQL
+3. Configure MySQL
 
 Create a database:
 
@@ -114,4 +115,4 @@ The table movies is auto-generated from the Movie entity.
 
 👤 Author
 
-Your Name / GitHub username
+Md Faiz / Mo8Faiz
