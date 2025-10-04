@@ -116,8 +116,6 @@ http://localhost:8080/api/movies/{id}
 
 Use Postman or any HTTP client.
 
-Example with curl:
-
 # Understand 
 
 The API is loosely coupled, so it can be consumed by frontends, mobile apps, or other services.
