@@ -30,8 +30,8 @@ DELETE /api/movies/{id} → Remove a movie
 🏗️ Project Setup
 1. Clone the repository
 ```bash
-git clone <your-repo-url>
-cd movie-api
+git clone https://github.com/Mo8Faiz/Basics-of-RESTAPIs-in-Java.git
+cd Basics-of-RESTAPIs-in-Java
 ``` 
 
 3. Configure MySQL
